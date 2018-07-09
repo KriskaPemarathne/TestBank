@@ -1,0 +1,123 @@
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core.Repositories\bin\Debug\QSOne.Core.Repositories.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core.Repositories\bin\Debug\QSOne.Core.Repositories.pdb
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core.Repositories\bin\Debug\QSOne.Core.Entities.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core.Repositories\bin\Debug\QSOne.Core.Repositories.Interfaces.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core.Repositories\bin\Debug\QSOne.Core.Entities.pdb
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core.Repositories\bin\Debug\QSOne.Core.Repositories.Interfaces.pdb
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core.Repositories\obj\Debug\QSOne.Core.Repositories.csprojResolveAssemblyReference.cache
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core.Repositories\obj\Debug\QSOne.Core.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core.Repositories\obj\Debug\QSOne.Core.Repositories.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core.Repositories\obj\Debug\QSOne.Core.Repositories.pdb
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core.Repositories\bin\Debug\Dapper.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core.Repositories\bin\Debug\Dapper.xml
+D:\QS\QSOne\QSOne.Core.Repositories\bin\Debug\QSOne.Core.Repositories.dll
+D:\QS\QSOne\QSOne.Core.Repositories\bin\Debug\QSOne.Core.Repositories.pdb
+D:\QS\QSOne\QSOne.Core.Repositories\bin\Debug\Dapper.dll
+D:\QS\QSOne\QSOne.Core.Repositories\bin\Debug\QSOne.Core.Entities.dll
+D:\QS\QSOne\QSOne.Core.Repositories\bin\Debug\QSOne.Core.Repositories.Interfaces.dll
+D:\QS\QSOne\QSOne.Core.Repositories\bin\Debug\QSOne.Core.Entities.pdb
+D:\QS\QSOne\QSOne.Core.Repositories\bin\Debug\QSOne.Core.Repositories.Interfaces.pdb
+D:\QS\QSOne\QSOne.Core.Repositories\bin\Debug\Dapper.xml
+D:\QS\QSOne\QSOne.Core.Repositories\obj\Debug\QSOne.Core.Repositories.csprojResolveAssemblyReference.cache
+D:\QS\QSOne\QSOne.Core.Repositories\obj\Debug\QSOne.Core.Repositories.csproj.CoreCompileInputs.cache
+D:\QS\QSOne\QSOne.Core.Repositories\obj\Debug\QSOne.Core.Repositories.csproj.CopyComplete
+D:\QS\QSOne\QSOne.Core.Repositories\obj\Debug\QSOne.Core.Repositories.dll
+D:\QS\QSOne\QSOne.Core.Repositories\obj\Debug\QSOne.Core.Repositories.pdb
+D:\QS\QSOne\QSOne.Core.Repositories\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\QS\QSOne\QSOne.Core.Repositories\bin\Debug\netstandard.dll
+D:\QS\QSOne\QSOne.Core.Repositories\bin\Debug\System.AppContext.dll
+D:\QS\QSOne\QSOne.Core.Repositories\bin\Debug\System.Collections.Concurrent.dll
+D:\QS\QSOne\QSOne.Core.Repositories\bin\Debug\System.Collections.dll
+D:\QS\QSOne\QSOne.Core.Repositories\bin\Debug\System.Collections.NonGeneric.dll
+D:\QS\QSOne\QSOne.Core.Repositories\bin\Debug\System.Collections.Specialized.dll
+D:\QS\QSOne\QSOne.Core.Repositories\bin\Debug\System.ComponentModel.dll
+D:\QS\QSOne\QSOne.Core.Repositories\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\QS\QSOne\QSOne.Core.Repositories\bin\Debug\System.ComponentModel.Primitives.dll
+D:\QS\QSOne\QSOne.Core.Repositories\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\QS\QSOne\QSOne.Core.Repositories\bin\Debug\System.Console.dll
+D:\QS\QSOne\QSOne.Core.Repositories\bin\Debug\System.Data.Common.dll
+D:\QS\QSOne\QSOne.Core.Repositories\bin\Debug\System.Diagnostics.Contracts.dll
+D:\QS\QSOne\QSOne.Core.Repositories\bin\Debug\System.Diagnostics.Debug.dll
+D:\QS\QSOne\QSOne.Core.Repositories\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\QS\QSOne\QSOne.Core.Repositories\bin\Debug\System.Diagnostics.Process.dll
+D:\QS\QSOne\QSOne.Core.Repositories\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\QS\QSOne\QSOne.Core.Repositories\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\QS\QSOne\QSOne.Core.Repositories\bin\Debug\System.Diagnostics.Tools.dll
+D:\QS\QSOne\QSOne.Core.Repositories\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\QS\QSOne\QSOne.Core.Repositories\bin\Debug\System.Diagnostics.Tracing.dll
+D:\QS\QSOne\QSOne.Core.Repositories\bin\Debug\System.Drawing.Primitives.dll
+D:\QS\QSOne\QSOne.Core.Repositories\bin\Debug\System.Dynamic.Runtime.dll
+D:\QS\QSOne\QSOne.Core.Repositories\bin\Debug\System.Globalization.Calendars.dll
+D:\QS\QSOne\QSOne.Core.Repositories\bin\Debug\System.Globalization.dll
+D:\QS\QSOne\QSOne.Core.Repositories\bin\Debug\System.Globalization.Extensions.dll
+D:\QS\QSOne\QSOne.Core.Repositories\bin\Debug\System.IO.Compression.dll
+D:\QS\QSOne\QSOne.Core.Repositories\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\QS\QSOne\QSOne.Core.Repositories\bin\Debug\System.IO.dll
+D:\QS\QSOne\QSOne.Core.Repositories\bin\Debug\System.IO.FileSystem.dll
+D:\QS\QSOne\QSOne.Core.Repositories\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\QS\QSOne\QSOne.Core.Repositories\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\QS\QSOne\QSOne.Core.Repositories\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\QS\QSOne\QSOne.Core.Repositories\bin\Debug\System.IO.IsolatedStorage.dll
+D:\QS\QSOne\QSOne.Core.Repositories\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\QS\QSOne\QSOne.Core.Repositories\bin\Debug\System.IO.Pipes.dll
+D:\QS\QSOne\QSOne.Core.Repositories\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\QS\QSOne\QSOne.Core.Repositories\bin\Debug\System.Linq.dll
+D:\QS\QSOne\QSOne.Core.Repositories\bin\Debug\System.Linq.Expressions.dll
+D:\QS\QSOne\QSOne.Core.Repositories\bin\Debug\System.Linq.Parallel.dll
+D:\QS\QSOne\QSOne.Core.Repositories\bin\Debug\System.Linq.Queryable.dll
+D:\QS\QSOne\QSOne.Core.Repositories\bin\Debug\System.Net.Http.dll
+D:\QS\QSOne\QSOne.Core.Repositories\bin\Debug\System.Net.NameResolution.dll
+D:\QS\QSOne\QSOne.Core.Repositories\bin\Debug\System.Net.NetworkInformation.dll
+D:\QS\QSOne\QSOne.Core.Repositories\bin\Debug\System.Net.Ping.dll
+D:\QS\QSOne\QSOne.Core.Repositories\bin\Debug\System.Net.Primitives.dll
+D:\QS\QSOne\QSOne.Core.Repositories\bin\Debug\System.Net.Requests.dll
+D:\QS\QSOne\QSOne.Core.Repositories\bin\Debug\System.Net.Security.dll
+D:\QS\QSOne\QSOne.Core.Repositories\bin\Debug\System.Net.Sockets.dll
+D:\QS\QSOne\QSOne.Core.Repositories\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\QS\QSOne\QSOne.Core.Repositories\bin\Debug\System.Net.WebSockets.Client.dll
+D:\QS\QSOne\QSOne.Core.Repositories\bin\Debug\System.Net.WebSockets.dll
+D:\QS\QSOne\QSOne.Core.Repositories\bin\Debug\System.ObjectModel.dll
+D:\QS\QSOne\QSOne.Core.Repositories\bin\Debug\System.Reflection.dll
+D:\QS\QSOne\QSOne.Core.Repositories\bin\Debug\System.Reflection.Extensions.dll
+D:\QS\QSOne\QSOne.Core.Repositories\bin\Debug\System.Reflection.Primitives.dll
+D:\QS\QSOne\QSOne.Core.Repositories\bin\Debug\System.Resources.Reader.dll
+D:\QS\QSOne\QSOne.Core.Repositories\bin\Debug\System.Resources.ResourceManager.dll
+D:\QS\QSOne\QSOne.Core.Repositories\bin\Debug\System.Resources.Writer.dll
+D:\QS\QSOne\QSOne.Core.Repositories\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\QS\QSOne\QSOne.Core.Repositories\bin\Debug\System.Runtime.dll
+D:\QS\QSOne\QSOne.Core.Repositories\bin\Debug\System.Runtime.Extensions.dll
+D:\QS\QSOne\QSOne.Core.Repositories\bin\Debug\System.Runtime.Handles.dll
+D:\QS\QSOne\QSOne.Core.Repositories\bin\Debug\System.Runtime.InteropServices.dll
+D:\QS\QSOne\QSOne.Core.Repositories\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\QS\QSOne\QSOne.Core.Repositories\bin\Debug\System.Runtime.Numerics.dll
+D:\QS\QSOne\QSOne.Core.Repositories\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\QS\QSOne\QSOne.Core.Repositories\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\QS\QSOne\QSOne.Core.Repositories\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\QS\QSOne\QSOne.Core.Repositories\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\QS\QSOne\QSOne.Core.Repositories\bin\Debug\System.Security.Claims.dll
+D:\QS\QSOne\QSOne.Core.Repositories\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\QS\QSOne\QSOne.Core.Repositories\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\QS\QSOne\QSOne.Core.Repositories\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\QS\QSOne\QSOne.Core.Repositories\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\QS\QSOne\QSOne.Core.Repositories\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\QS\QSOne\QSOne.Core.Repositories\bin\Debug\System.Security.Principal.dll
+D:\QS\QSOne\QSOne.Core.Repositories\bin\Debug\System.Security.SecureString.dll
+D:\QS\QSOne\QSOne.Core.Repositories\bin\Debug\System.Text.Encoding.dll
+D:\QS\QSOne\QSOne.Core.Repositories\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\QS\QSOne\QSOne.Core.Repositories\bin\Debug\System.Text.RegularExpressions.dll
+D:\QS\QSOne\QSOne.Core.Repositories\bin\Debug\System.Threading.dll
+D:\QS\QSOne\QSOne.Core.Repositories\bin\Debug\System.Threading.Overlapped.dll
+D:\QS\QSOne\QSOne.Core.Repositories\bin\Debug\System.Threading.Tasks.dll
+D:\QS\QSOne\QSOne.Core.Repositories\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\QS\QSOne\QSOne.Core.Repositories\bin\Debug\System.Threading.Thread.dll
+D:\QS\QSOne\QSOne.Core.Repositories\bin\Debug\System.Threading.ThreadPool.dll
+D:\QS\QSOne\QSOne.Core.Repositories\bin\Debug\System.Threading.Timer.dll
+D:\QS\QSOne\QSOne.Core.Repositories\bin\Debug\System.ValueTuple.dll
+D:\QS\QSOne\QSOne.Core.Repositories\bin\Debug\System.Xml.ReaderWriter.dll
+D:\QS\QSOne\QSOne.Core.Repositories\bin\Debug\System.Xml.XDocument.dll
+D:\QS\QSOne\QSOne.Core.Repositories\bin\Debug\System.Xml.XmlDocument.dll
+D:\QS\QSOne\QSOne.Core.Repositories\bin\Debug\System.Xml.XmlSerializer.dll
+D:\QS\QSOne\QSOne.Core.Repositories\bin\Debug\System.Xml.XPath.dll
+D:\QS\QSOne\QSOne.Core.Repositories\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\QS\QSOne\QSOne.Core.Repositories\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\QS\QSOne\QSOne.Core.Repositories\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml

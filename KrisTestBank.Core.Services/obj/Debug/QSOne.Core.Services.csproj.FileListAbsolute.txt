@@ -1,0 +1,25 @@
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core.Services\bin\Debug\QSOne.Core.Services.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core.Services\bin\Debug\QSOne.Core.Services.pdb
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core.Services\bin\Debug\QSOne.Core.Entities.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core.Services\bin\Debug\QSOne.Core.Repositories.Interfaces.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core.Services\bin\Debug\QSOne.Core.Entities.pdb
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core.Services\bin\Debug\QSOne.Core.Repositories.Interfaces.pdb
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core.Services\obj\Debug\QSOne.Core.Services.csprojResolveAssemblyReference.cache
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core.Services\obj\Debug\QSOne.Core.Services.csproj.CoreCompileInputs.cache
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core.Services\obj\Debug\QSOne.Core.Services.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core.Services\obj\Debug\QSOne.Core.Services.pdb
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core.Services\bin\Debug\QSOne.Core.Services.Interfaces.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core.Services\bin\Debug\QSOne.Core.Services.Interfaces.pdb
+D:\QS\QSOne\QSOne.Core.Services\bin\Debug\QSOne.Core.Services.dll
+D:\QS\QSOne\QSOne.Core.Services\bin\Debug\QSOne.Core.Services.pdb
+D:\QS\QSOne\QSOne.Core.Services\bin\Debug\QSOne.Core.Entities.dll
+D:\QS\QSOne\QSOne.Core.Services\bin\Debug\QSOne.Core.Repositories.Interfaces.dll
+D:\QS\QSOne\QSOne.Core.Services\bin\Debug\QSOne.Core.Services.Interfaces.dll
+D:\QS\QSOne\QSOne.Core.Services\bin\Debug\QSOne.Core.Entities.pdb
+D:\QS\QSOne\QSOne.Core.Services\bin\Debug\QSOne.Core.Repositories.Interfaces.pdb
+D:\QS\QSOne\QSOne.Core.Services\bin\Debug\QSOne.Core.Services.Interfaces.pdb
+D:\QS\QSOne\QSOne.Core.Services\obj\Debug\QSOne.Core.Services.csprojResolveAssemblyReference.cache
+D:\QS\QSOne\QSOne.Core.Services\obj\Debug\QSOne.Core.Services.csproj.CoreCompileInputs.cache
+D:\QS\QSOne\QSOne.Core.Services\obj\Debug\QSOne.Core.Services.csproj.CopyComplete
+D:\QS\QSOne\QSOne.Core.Services\obj\Debug\QSOne.Core.Services.dll
+D:\QS\QSOne\QSOne.Core.Services\obj\Debug\QSOne.Core.Services.pdb

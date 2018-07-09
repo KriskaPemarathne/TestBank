@@ -1,0 +1,11 @@
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core.Entities\bin\Debug\QSOne.Core.Entities.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core.Entities\bin\Debug\QSOne.Core.Entities.pdb
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core.Entities\obj\Debug\QSOne.Core.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core.Entities\obj\Debug\QSOne.Core.Entities.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core.Entities\obj\Debug\QSOne.Core.Entities.pdb
+D:\QS\QSOne\QSOne.Core.Entities\bin\Debug\QSOne.Core.Entities.dll
+D:\QS\QSOne\QSOne.Core.Entities\bin\Debug\QSOne.Core.Entities.pdb
+D:\QS\QSOne\QSOne.Core.Entities\obj\Debug\QSOne.Core.Entities.csprojResolveAssemblyReference.cache
+D:\QS\QSOne\QSOne.Core.Entities\obj\Debug\QSOne.Core.Entities.csproj.CoreCompileInputs.cache
+D:\QS\QSOne\QSOne.Core.Entities\obj\Debug\QSOne.Core.Entities.dll
+D:\QS\QSOne\QSOne.Core.Entities\obj\Debug\QSOne.Core.Entities.pdb

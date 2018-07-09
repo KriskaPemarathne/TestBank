@@ -1,0 +1,17 @@
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core.Repositories.Interfaces\bin\Debug\QSOne.Core.Repositories.Interfaces.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core.Repositories.Interfaces\bin\Debug\QSOne.Core.Repositories.Interfaces.pdb
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core.Repositories.Interfaces\bin\Debug\QSOne.Core.Entities.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core.Repositories.Interfaces\bin\Debug\QSOne.Core.Entities.pdb
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core.Repositories.Interfaces\obj\Debug\QSOne.Core.Repositories.Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core.Repositories.Interfaces\obj\Debug\QSOne.Core.Repositories.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core.Repositories.Interfaces\obj\Debug\QSOne.Core.Repositories.Interfaces.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core.Repositories.Interfaces\obj\Debug\QSOne.Core.Repositories.Interfaces.pdb
+D:\QS\QSOne\QSOne.Core.Repositories.Interfaces\bin\Debug\QSOne.Core.Repositories.Interfaces.dll
+D:\QS\QSOne\QSOne.Core.Repositories.Interfaces\bin\Debug\QSOne.Core.Repositories.Interfaces.pdb
+D:\QS\QSOne\QSOne.Core.Repositories.Interfaces\bin\Debug\QSOne.Core.Entities.dll
+D:\QS\QSOne\QSOne.Core.Repositories.Interfaces\bin\Debug\QSOne.Core.Entities.pdb
+D:\QS\QSOne\QSOne.Core.Repositories.Interfaces\obj\Debug\QSOne.Core.Repositories.Interfaces.csprojResolveAssemblyReference.cache
+D:\QS\QSOne\QSOne.Core.Repositories.Interfaces\obj\Debug\QSOne.Core.Repositories.Interfaces.csproj.CoreCompileInputs.cache
+D:\QS\QSOne\QSOne.Core.Repositories.Interfaces\obj\Debug\QSOne.Core.Repositories.Interfaces.csproj.CopyComplete
+D:\QS\QSOne\QSOne.Core.Repositories.Interfaces\obj\Debug\QSOne.Core.Repositories.Interfaces.dll
+D:\QS\QSOne\QSOne.Core.Repositories.Interfaces\obj\Debug\QSOne.Core.Repositories.Interfaces.pdb

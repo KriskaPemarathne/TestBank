@@ -1,0 +1,687 @@
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\QSOne.Core.exe.config
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\QSOne.Core.deps.json
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\QSOne.Core.exe
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\QSOne.Core.pdb
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\Microsoft.Win32.Primitives.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\netfx.force.conflicts.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\netstandard.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.AppContext.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Collections.Concurrent.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Collections.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Collections.NonGeneric.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Collections.Specialized.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.ComponentModel.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.ComponentModel.Primitives.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.ComponentModel.TypeConverter.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Console.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Data.Common.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Diagnostics.Contracts.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Diagnostics.Debug.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Diagnostics.Process.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Diagnostics.StackTrace.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Diagnostics.Tools.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Diagnostics.TraceSource.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Diagnostics.Tracing.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Drawing.Primitives.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Dynamic.Runtime.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Globalization.Calendars.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Globalization.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Globalization.Extensions.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.IO.Compression.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.IO.Compression.ZipFile.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.IO.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.IO.FileSystem.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.IO.FileSystem.Primitives.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.IO.FileSystem.Watcher.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.IO.IsolatedStorage.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.IO.MemoryMappedFiles.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.IO.Pipes.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Linq.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Linq.Expressions.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Linq.Parallel.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Linq.Queryable.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Net.Http.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Net.NameResolution.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Net.NetworkInformation.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Net.Ping.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Net.Primitives.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Net.Requests.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Net.Security.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Net.Sockets.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Net.WebHeaderCollection.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Net.WebSockets.Client.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Net.WebSockets.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.ObjectModel.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Reflection.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Reflection.Extensions.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Reflection.Primitives.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Resources.Reader.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Resources.ResourceManager.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Resources.Writer.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Runtime.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Runtime.Extensions.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Runtime.Handles.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Runtime.InteropServices.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Runtime.Numerics.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Runtime.Serialization.Formatters.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Runtime.Serialization.Json.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Runtime.Serialization.Primitives.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Runtime.Serialization.Xml.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Security.Claims.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Security.Cryptography.Algorithms.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Security.Cryptography.Csp.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Security.Cryptography.Encoding.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Security.Cryptography.Primitives.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Security.Principal.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Security.SecureString.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Text.Encoding.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Text.Encoding.Extensions.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Text.RegularExpressions.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Threading.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Threading.Overlapped.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Threading.Tasks.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Threading.Tasks.Parallel.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Threading.Thread.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Threading.ThreadPool.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Threading.Timer.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.ValueTuple.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Xml.ReaderWriter.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Xml.XDocument.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Xml.XmlDocument.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Xml.XmlSerializer.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Xml.XPath.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Xml.XPath.XDocument.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\libuv.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.AspNetCore.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.AspNetCore.Cors.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.AspNetCore.Diagnostics.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.AspNetCore.Hosting.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.AspNetCore.Http.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.AspNetCore.Localization.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.AspNetCore.Mvc.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.AspNetCore.Razor.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.AspNetCore.Routing.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.AspNetCore.Server.Kestrel.Transport.Libuv.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.CodeAnalysis.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.Extensions.Configuration.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.Extensions.Localization.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.Extensions.Logging.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.Extensions.Logging.Console.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.Extensions.Options.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.Extensions.Primitives.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.Extensions.WebEncoders.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.Net.Http.Headers.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.Win32.Registry.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\Newtonsoft.Json.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\Newtonsoft.Json.Bson.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Buffers.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Collections.Immutable.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\System.ComponentModel.Annotations.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Numerics.Vectors.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Reflection.Metadata.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Security.AccessControl.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Security.Cryptography.Xml.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Security.Principal.Windows.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Text.Encoding.CodePages.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Text.Encodings.Web.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Threading.Tasks.Extensions.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.Win32.Primitives.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\netstandard.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\System.AppContext.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Collections.Concurrent.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Collections.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Collections.NonGeneric.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Collections.Specialized.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\System.ComponentModel.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\System.ComponentModel.Primitives.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\System.ComponentModel.TypeConverter.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Console.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Data.Common.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Diagnostics.Contracts.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Diagnostics.Debug.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Diagnostics.Process.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Diagnostics.StackTrace.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Diagnostics.Tools.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Diagnostics.TraceSource.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Diagnostics.Tracing.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Drawing.Primitives.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Dynamic.Runtime.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Globalization.Calendars.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Globalization.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Globalization.Extensions.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\System.IO.Compression.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\System.IO.Compression.ZipFile.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\System.IO.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\System.IO.FileSystem.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\System.IO.FileSystem.Primitives.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\System.IO.FileSystem.Watcher.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\System.IO.IsolatedStorage.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\System.IO.MemoryMappedFiles.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\System.IO.Pipes.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Linq.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Linq.Expressions.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Linq.Parallel.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Linq.Queryable.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Net.Http.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Net.NameResolution.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Net.NetworkInformation.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Net.Ping.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Net.Primitives.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Net.Requests.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Net.Security.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Net.Sockets.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Net.WebHeaderCollection.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Net.WebSockets.Client.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Net.WebSockets.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\System.ObjectModel.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Reflection.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Reflection.Extensions.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Reflection.Primitives.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Resources.Reader.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Resources.ResourceManager.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Resources.Writer.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Runtime.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Runtime.Extensions.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Runtime.Handles.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Runtime.InteropServices.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Runtime.Numerics.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Runtime.Serialization.Formatters.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Runtime.Serialization.Json.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Runtime.Serialization.Primitives.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Runtime.Serialization.Xml.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Security.Claims.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Security.Cryptography.Algorithms.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Security.Cryptography.Csp.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Security.Cryptography.Encoding.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Security.Cryptography.Primitives.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Security.Principal.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Security.SecureString.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Text.Encoding.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Text.Encoding.Extensions.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Text.RegularExpressions.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Threading.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Threading.Overlapped.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Threading.Tasks.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Threading.Tasks.Parallel.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Threading.Thread.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Threading.ThreadPool.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Threading.Timer.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\System.ValueTuple.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Xml.ReaderWriter.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Xml.XDocument.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Xml.XmlDocument.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Xml.XmlSerializer.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Xml.XPath.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Xml.XPath.XDocument.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\QSOne.Core.Entities.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\QSOne.Core.Repositories.Interfaces.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\QSOne.Core.Services.Interfaces.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\QSOne.Core.Entities.pdb
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\QSOne.Core.Repositories.Interfaces.pdb
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\QSOne.Core.Services.Interfaces.pdb
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\obj\Debug\net461\QSOne.Core.csprojResolveAssemblyReference.cache
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\obj\Debug\net461\QSOne.Core.csproj.QSOne.Core.exe.config
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\obj\Debug\net461\QSOne.Core.csproj.CoreCompileInputs.cache
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\obj\Debug\net461\QSOne.Core.AssemblyInfoInputs.cache
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\obj\Debug\net461\QSOne.Core.AssemblyInfo.cs
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\obj\Debug\net461\QSOne.Core.exe
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\obj\Debug\net461\QSOne.Core.pdb
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\Esent.Interop.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.CodeAnalysis.Workspaces.Desktop.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.EntityFrameworkCore.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\NuGet.Frameworks.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\Remotion.Linq.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Composition.AttributedModel.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Composition.Convention.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Composition.Hosting.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Composition.Runtime.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Composition.TypedParts.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Interactive.Async.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.AspNetCore.StaticFiles.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.VisualStudio.Web.BrowserLink.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Data.SqlClient.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\QSOne.Core.Repositories.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\QSOne.Core.Services.dll
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\QSOne.Core.Repositories.pdb
+C:\Users\Vajira\Documents\Visual Studio 2017\QS\QSOne\QSOne.Core\bin\Debug\net461\QSOne.Core.Services.pdb
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\QSOne.Core.exe.config
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\QSOne.Core.deps.json
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\QSOne.Core.exe
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\QSOne.Core.pdb
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\Microsoft.Win32.Primitives.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\netfx.force.conflicts.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\netstandard.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.AppContext.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Collections.Concurrent.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Collections.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Collections.NonGeneric.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Collections.Specialized.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.ComponentModel.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.ComponentModel.EventBasedAsync.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.ComponentModel.Primitives.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.ComponentModel.TypeConverter.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Console.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Data.Common.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Diagnostics.Contracts.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Diagnostics.Debug.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Diagnostics.FileVersionInfo.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Diagnostics.Process.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Diagnostics.StackTrace.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Diagnostics.TextWriterTraceListener.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Diagnostics.Tools.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Diagnostics.TraceSource.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Diagnostics.Tracing.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Drawing.Primitives.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Dynamic.Runtime.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Globalization.Calendars.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Globalization.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Globalization.Extensions.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.IO.Compression.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.IO.Compression.ZipFile.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.IO.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.IO.FileSystem.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.IO.FileSystem.DriveInfo.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.IO.FileSystem.Primitives.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.IO.FileSystem.Watcher.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.IO.IsolatedStorage.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.IO.MemoryMappedFiles.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.IO.Pipes.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.IO.UnmanagedMemoryStream.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Linq.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Linq.Expressions.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Linq.Parallel.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Linq.Queryable.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Net.Http.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Net.NameResolution.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Net.NetworkInformation.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Net.Ping.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Net.Primitives.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Net.Requests.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Net.Security.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Net.Sockets.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Net.WebHeaderCollection.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Net.WebSockets.Client.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Net.WebSockets.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.ObjectModel.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Reflection.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Reflection.Extensions.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Reflection.Primitives.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Resources.Reader.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Resources.ResourceManager.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Resources.Writer.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Runtime.CompilerServices.VisualC.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Runtime.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Runtime.Extensions.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Runtime.Handles.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Runtime.InteropServices.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Runtime.Numerics.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Runtime.Serialization.Formatters.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Runtime.Serialization.Json.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Runtime.Serialization.Primitives.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Runtime.Serialization.Xml.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Security.Claims.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Security.Cryptography.Algorithms.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Security.Cryptography.Csp.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Security.Cryptography.Encoding.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Security.Cryptography.Primitives.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Security.Cryptography.X509Certificates.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Security.Principal.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Security.SecureString.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Text.Encoding.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Text.Encoding.Extensions.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Text.RegularExpressions.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Threading.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Threading.Overlapped.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Threading.Tasks.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Threading.Tasks.Parallel.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Threading.Thread.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Threading.ThreadPool.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Threading.Timer.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.ValueTuple.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Xml.ReaderWriter.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Xml.XDocument.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Xml.XmlDocument.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Xml.XmlSerializer.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Xml.XPath.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\refs\System.Xml.XPath.XDocument.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\libuv.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\Esent.Interop.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.AspNetCore.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.AspNetCore.Antiforgery.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.AspNetCore.Authentication.Core.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.AspNetCore.Authorization.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.AspNetCore.Cors.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.AspNetCore.DataProtection.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.AspNetCore.Diagnostics.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.AspNetCore.Hosting.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.AspNetCore.Http.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.AspNetCore.Http.Extensions.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.AspNetCore.Http.Features.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.AspNetCore.HttpOverrides.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.AspNetCore.JsonPatch.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.AspNetCore.Localization.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.AspNetCore.Mvc.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Core.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.AspNetCore.Razor.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.AspNetCore.Razor.Language.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.AspNetCore.Routing.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.AspNetCore.Server.Kestrel.Transport.Libuv.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.AspNetCore.StaticFiles.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.AspNetCore.WebUtilities.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.CodeAnalysis.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.CodeAnalysis.CSharp.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.CodeAnalysis.Razor.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.CodeAnalysis.Workspaces.Desktop.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.CodeAnalysis.Workspaces.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.DotNet.PlatformAbstractions.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.EntityFrameworkCore.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.EntityFrameworkCore.Design.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.EntityFrameworkCore.Relational.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.Extensions.Caching.Abstractions.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.Extensions.Caching.Memory.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.Extensions.Configuration.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.Extensions.Configuration.Binder.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.Extensions.Configuration.Json.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.Extensions.DependencyInjection.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.Extensions.DependencyModel.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.Extensions.FileProviders.Composite.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.Extensions.FileProviders.Physical.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.Extensions.Localization.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.Extensions.Localization.Abstractions.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.Extensions.Logging.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.Extensions.Logging.Abstractions.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.Extensions.Logging.Configuration.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.Extensions.Logging.Console.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.Extensions.Logging.Debug.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.Extensions.ObjectPool.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.Extensions.Options.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.Extensions.Primitives.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.Extensions.WebEncoders.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.Net.Http.Headers.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.VisualStudio.Web.BrowserLink.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\dotnet-aspnet-codegenerator-design.exe
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.Win32.Registry.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\Newtonsoft.Json.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\Newtonsoft.Json.Bson.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\NuGet.Frameworks.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\Remotion.Linq.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Buffers.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Collections.Immutable.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\System.ComponentModel.Annotations.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Composition.AttributedModel.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Composition.Convention.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Composition.Hosting.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Composition.Runtime.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Composition.TypedParts.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Data.SqlClient.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Diagnostics.DiagnosticSource.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Interactive.Async.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Numerics.Vectors.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Reflection.Metadata.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Runtime.CompilerServices.Unsafe.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Security.AccessControl.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Security.Cryptography.Xml.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Security.Principal.Windows.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Text.Encoding.CodePages.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Text.Encodings.Web.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Threading.Tasks.Extensions.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\Microsoft.Win32.Primitives.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\netstandard.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\System.AppContext.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Collections.Concurrent.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Collections.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Collections.NonGeneric.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Collections.Specialized.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\System.ComponentModel.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\System.ComponentModel.EventBasedAsync.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\System.ComponentModel.Primitives.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\System.ComponentModel.TypeConverter.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Console.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Data.Common.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Diagnostics.Contracts.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Diagnostics.Debug.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Diagnostics.FileVersionInfo.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Diagnostics.Process.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Diagnostics.StackTrace.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Diagnostics.TextWriterTraceListener.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Diagnostics.Tools.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Diagnostics.TraceSource.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Diagnostics.Tracing.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Drawing.Primitives.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Dynamic.Runtime.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Globalization.Calendars.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Globalization.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Globalization.Extensions.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\System.IO.Compression.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\System.IO.Compression.ZipFile.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\System.IO.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\System.IO.FileSystem.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\System.IO.FileSystem.DriveInfo.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\System.IO.FileSystem.Primitives.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\System.IO.FileSystem.Watcher.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\System.IO.IsolatedStorage.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\System.IO.MemoryMappedFiles.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\System.IO.Pipes.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\System.IO.UnmanagedMemoryStream.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Linq.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Linq.Expressions.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Linq.Parallel.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Linq.Queryable.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Net.Http.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Net.NameResolution.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Net.NetworkInformation.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Net.Ping.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Net.Primitives.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Net.Requests.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Net.Security.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Net.Sockets.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Net.WebHeaderCollection.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Net.WebSockets.Client.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Net.WebSockets.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\System.ObjectModel.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Reflection.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Reflection.Extensions.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Reflection.Primitives.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Resources.Reader.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Resources.ResourceManager.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Resources.Writer.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Runtime.CompilerServices.VisualC.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Runtime.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Runtime.Extensions.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Runtime.Handles.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Runtime.InteropServices.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Runtime.Numerics.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Runtime.Serialization.Formatters.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Runtime.Serialization.Json.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Runtime.Serialization.Primitives.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Runtime.Serialization.Xml.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Security.Claims.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Security.Cryptography.Algorithms.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Security.Cryptography.Csp.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Security.Cryptography.Encoding.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Security.Cryptography.Primitives.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Security.Cryptography.X509Certificates.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Security.Principal.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Security.SecureString.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Text.Encoding.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Text.Encoding.Extensions.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Text.RegularExpressions.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Threading.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Threading.Overlapped.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Threading.Tasks.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Threading.Tasks.Parallel.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Threading.Thread.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Threading.ThreadPool.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Threading.Timer.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\System.ValueTuple.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Xml.ReaderWriter.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Xml.XDocument.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Xml.XmlDocument.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Xml.XmlSerializer.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Xml.XPath.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\System.Xml.XPath.XDocument.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\QSOne.Core.Entities.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\QSOne.Core.Repositories.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\QSOne.Core.Repositories.Interfaces.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\QSOne.Core.Services.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\QSOne.Core.Services.Interfaces.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\QSOne.Core.Entities.pdb
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\QSOne.Core.Repositories.Interfaces.pdb
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\QSOne.Core.Repositories.pdb
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\QSOne.Core.Services.Interfaces.pdb
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\QSOne.Core.Services.pdb
+D:\QS\QSOne\QSOne.Core\obj\Debug\net461\QSOne.Core.csprojResolveAssemblyReference.cache
+D:\QS\QSOne\QSOne.Core\obj\Debug\net461\QSOne.Core.exe.config
+D:\QS\QSOne\QSOne.Core\obj\Debug\net461\QSOne.Core.csproj.CoreCompileInputs.cache
+D:\QS\QSOne\QSOne.Core\obj\Debug\net461\QSOne.Core.AssemblyInfoInputs.cache
+D:\QS\QSOne\QSOne.Core\obj\Debug\net461\QSOne.Core.AssemblyInfo.cs
+D:\QS\QSOne\QSOne.Core\obj\Debug\net461\QSOne.Core.csproj.CopyComplete
+D:\QS\QSOne\QSOne.Core\obj\Debug\net461\QSOne.Core.exe
+D:\QS\QSOne\QSOne.Core\obj\Debug\net461\QSOne.Core.pdb
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\Dapper.dll
+D:\QS\QSOne\QSOne.Core\bin\Debug\net461\Dapper.xml

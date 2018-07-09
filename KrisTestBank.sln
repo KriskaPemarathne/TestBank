@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2006
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KrisTestBank.Core", "KrisTestBank.Core\KrisTestBank.Core.csproj", "{6F357CE8-AE36-4A61-9D79-38342C0EB8B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KrisTestBank.Core.Entities", "KrisTestBank.Core.Entities\KrisTestBank.Core.Entities.csproj", "{3391F548-3AFC-49FE-9A58-7AE70D673C18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KrisTestBank.Core.Repositories", "KrisTestBank.Core.Repositories\KrisTestBank.Core.Repositories.csproj", "{5805B9A0-6EC6-4448-92F8-53B1BAA73041}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KrisTestBank.Core.Repositories.Interfaces", "KrisTestBank.Core.Repositories.Interfaces\KrisTestBank.Core.Repositories.Interfaces.csproj", "{213D6CB6-1A08-47D8-9C16-0C5EF6727B94}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KrisTestBank.Core.Services", "KrisTestBank.Core.Services\KrisTestBank.Core.Services.csproj", "{4BC4E8B0-BBCB-4A09-9346-E7EAD5EA3879}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KrisTestBank.Core.Services.Interfaces", "KrisTestBank.Core.Services.Interfaces\KrisTestBank.Core.Services.Interfaces.csproj", "{949BC859-1B55-4965-B73B-BF544D1B2D29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F357CE8-AE36-4A61-9D79-38342C0EB8B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F357CE8-AE36-4A61-9D79-38342C0EB8B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F357CE8-AE36-4A61-9D79-38342C0EB8B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F357CE8-AE36-4A61-9D79-38342C0EB8B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3391F548-3AFC-49FE-9A58-7AE70D673C18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3391F548-3AFC-49FE-9A58-7AE70D673C18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3391F548-3AFC-49FE-9A58-7AE70D673C18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3391F548-3AFC-49FE-9A58-7AE70D673C18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5805B9A0-6EC6-4448-92F8-53B1BAA73041}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5805B9A0-6EC6-4448-92F8-53B1BAA73041}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5805B9A0-6EC6-4448-92F8-53B1BAA73041}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5805B9A0-6EC6-4448-92F8-53B1BAA73041}.Release|Any CPU.Build.0 = Release|Any CPU
+		{213D6CB6-1A08-47D8-9C16-0C5EF6727B94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{213D6CB6-1A08-47D8-9C16-0C5EF6727B94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{213D6CB6-1A08-47D8-9C16-0C5EF6727B94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{213D6CB6-1A08-47D8-9C16-0C5EF6727B94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BC4E8B0-BBCB-4A09-9346-E7EAD5EA3879}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BC4E8B0-BBCB-4A09-9346-E7EAD5EA3879}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BC4E8B0-BBCB-4A09-9346-E7EAD5EA3879}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BC4E8B0-BBCB-4A09-9346-E7EAD5EA3879}.Release|Any CPU.Build.0 = Release|Any CPU
+		{949BC859-1B55-4965-B73B-BF544D1B2D29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{949BC859-1B55-4965-B73B-BF544D1B2D29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{949BC859-1B55-4965-B73B-BF544D1B2D29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{949BC859-1B55-4965-B73B-BF544D1B2D29}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BEC4C9C5-A6CE-4BDC-9FBD-8B22F9B16E93}
+	EndGlobalSection
+EndGlobal
